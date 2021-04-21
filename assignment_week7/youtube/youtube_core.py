@@ -101,3 +101,5 @@ def compute_measures_comments(videos):
     mean = round(statistics.mean(comments), 2)
     stdev = round(statistics.pstdev(comments), 2)
     return median, mean, stdev
+
+# hello
